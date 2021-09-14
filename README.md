@@ -1,6 +1,6 @@
 # My-Knights-and-Princesses-Game
 
-In essence, this game simulates the fight between two characters - the one controlled by the user and the one controlled by the computer AI.<br />The narative of the game is set in a fictional kingdom where the hero (the user) embraces the mission to save the Princess and, in order to do that, he needs to defeat the Princess's kidnapper.
+In essence, this game simulates the fight between two characters - the first one controlled by the user and the second one controlled by the computer AI.<br />The narative of the game is set in a fictional kingdom where the hero (the user) embraces the mission to save the Princess and, in order to achieve that, he needs to defeat the Princess's kidnapper.
 
 **NOTE:** All the text in the game is written in Romanian, so playing the game by players of other nations could pe challenging. Adding an English version of the game texts is a future feature I plan to implement.
 
@@ -22,7 +22,7 @@ In the repository you will find a .jar version of the game wich can be downloade
 
 1. Press the Enter key when prompted on the screen.
 2. Enter the name wich you want to play with.
-3. Choose the class of your character by typing the number in front of each class. Additionally, you cand press the 0 key to see detailed information about the effectiveness of each attack depending on your character's class, your opponent's class, and the type of attack used.
+3. Choose the class of your character by typing the number in front of each class. Additionally, you cand press the 0 key to see detailed information about the effectiveness of each attack depending on your character's class, your opponent's class and the type of attack used.
 4. During the fight you can:
     - press 0 to run from the fight;
     - press 1, 2 or 3 to send a specific attack to your opponent;
